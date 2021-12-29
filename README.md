@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky-Lzx&count_private=true&show_icons=true&theme=gruvbox&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lzx12138&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lzx12138&theme=gruvbox&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
